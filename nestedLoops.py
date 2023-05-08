@@ -1,2 +1,2 @@
-for item in 'Python':
+for item in range(100):
     print(item)
