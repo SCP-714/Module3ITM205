@@ -12,6 +12,7 @@ while True:
 Please type > 'start' to start your car
 
 Please type > 'stop' to stop your car
+
 Please type > 'quit' to quit your game session
          """);
     elif command == 'quit':
